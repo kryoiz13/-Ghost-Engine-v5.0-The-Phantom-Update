@@ -1,0 +1,29 @@
+=========================================
+GHOST ENGINE v5.0 - TERMINAL COMMANDS
+=========================================
+
+1. RUN THIS FIRST (Install Dependencies):
+-----------------------------------------
+pip install youtube-transcript-api pyautogui
+
+
+2. RUN THIS TO START THE BOT:
+-----------------------------------------
+python bot.py
+
+
+3. IF "PIP" DOESN'T WORK, TRY THIS:
+-----------------------------------------
+python -m pip install youtube-transcript-api pyautogui
+
+
+4. IF THE BOT DOESN'T START, TRY THIS:
+-----------------------------------------
+python3 bot.py
+
+=========================================
+NOTES:
+- Make sure you are in the same folder as your bot.py file.
+- Keep the terminal window open while the bot is running.
+- Use 'Ctrl + C' in the terminal to force-kill the process.
+=========================================
